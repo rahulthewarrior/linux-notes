@@ -5,10 +5,10 @@ my Linux learning notes and commands.
 
 ## Topics 
 
--Linux Commands 
+-Linux Commands
+# File and Directory Navigation
 
-
-1. ls    -- list files and directorys in the current directory.   
-### Example kali@kali:-$ ls 
-### Documents  Downloads  Music
-### Pictures  Public  Templates
+### $ ls    --> list files and directorys in the current directory.   
+### $ pwd   --> Prints current directory path.
+### $ cd    --> Changes the current working directory.
+### $ mkdir  --> Creates a new directory.
